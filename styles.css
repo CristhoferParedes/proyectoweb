@@ -12,7 +12,6 @@ body
     height: 25px;
     text-align: end;
     font-family: sans-serif;
-
 }
 
 .parrafobloque1
@@ -47,6 +46,7 @@ body
     border-width: 1px;
     border-color: blue;
     border-style: solid;
+    border-radius: 10px;
 }
 
 .parrafobloque2
